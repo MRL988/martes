@@ -1,0 +1,135 @@
+#principal{
+    background-color: brown;
+    height: 1000px;
+    width: 10000px;
+
+}
+#oreja1{
+    background-color: crimson;
+    height: 80px;
+    width: 80px;
+    left: 300px;
+    border-radius: 100px;
+    position: relative;
+    left: 200px;
+    top: 40px;
+    border: 20px solid #882611;
+  
+}
+#oreja2
+{
+    background-color: crimson;
+    height: 80px;
+    width: 80px;
+    position: relative;
+    left: 385px;
+    border-radius: 100px;
+    top: -73px;
+    border: 20px solid #882611;
+}
+#carita{
+    background-color:#882611 ;
+    height: 260px;
+    width: 260px;
+    border-radius: 150px;
+    position: relative;
+    left: 210px;
+    bottom: 110px;
+    
+    
+}
+#ojo1{
+    background-color: aliceblue;
+    height: 30px;
+    width: 30px;
+    border-radius: 95px;
+    position: relative;
+    left: 45px;
+    top: 60px;
+    border: 20px solid black;
+}
+#ojo2{
+    background-color: aliceblue;
+    height: 30px;
+    width: 30px;
+    border-radius: 95px;
+    position: relative;
+    left: 150px;
+    top: -9px;
+    border: 20px solid black;    
+}
+#nariz{
+background-color: burlywood;
+height: 50px;
+width: 50px;
+border-radius: 25px;
+position: relative;
+left: 95px;
+}
+#boca{
+    background-color: coral;
+    height: 35px;
+    width: 110px;
+    border-radius: 95px;
+    position: relative;
+    left: 70px;
+    top: 15px;
+}
+#cuerpo{
+    background-color: #882611;
+    height: 290px;
+    width: 290px;
+    border-radius:150px ;
+    position: relative;
+    left: 195px;
+    bottom: 120px;
+}
+#cuerpito{
+    background-color: burlywood;
+    height: 200px;
+    width: 200px;
+    border-radius:100px ;
+    position: relative;
+    left: 45px;
+    top: 40px;
+}
+#mano{
+    background-color: burlywood;
+    height: 90px;
+    width: 90px;
+    border-radius:45px ;
+    position: relative;
+    bottom: 370px;
+    left: 120px;
+
+}
+#mano2{
+    background-color: burlywood;
+    height: 90px;
+    width: 90px;
+    border-radius:45px ;
+    position: relative;
+    bottom: 470px;
+    left: 470px;
+
+}
+#pie{
+    background-color: burlywood;
+    height: 90px;
+    width: 90px;
+    border-radius:45px ;
+    position: relative;
+   bottom: 390px;
+    left: 140px;
+
+}
+#pie2{
+    background-color: burlywood;
+    height: 90px;
+    width: 90px;
+    border-radius:45px ;
+    position: relative;
+    bottom: 470px;
+    left: 450px;
+
+}
